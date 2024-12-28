@@ -1,2 +1,2 @@
 # CV-Portfolio-Practice
-This includes source code for my CV Portfolio Website practice
+Welcome to my CV Portfolio repository! This project showcases my professional experiences, skills, education, and projects in a well-organized and visually appealing format.
